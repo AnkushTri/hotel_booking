@@ -33,7 +33,7 @@
 						</div>
 						<nav class="main_nav">
 							<ul class="d-flex flex-row align-items-center justify-content-start">
-								<li class="active"><a href="index.php">Home</a></li>
+								<li<a href="index.php">Home</a></li>
 								<li><a href="about.php">About us</a></li>
 								<li><a href="rooms.php">Rooms</a></li>
 								<li><a href="blog.php">News</a></li>
@@ -51,18 +51,3 @@
 		</div>
 	</header>
 
-	<!-- Menu -->
-
-	<div class="menu">
-		<div class="background_image" style="background-image:url(images/menu.jpg)"></div>
-		<div class="menu_content d-flex flex-column align-items-center justify-content-center">
-			<ul class="menu_nav_list text-center">
-				<li><a href="index.php">Home</a></li>
-				<li><a href="about.php">About us</a></li>
-				<li><a href="rooms.php">Rooms</a></li>
-				<li><a href="news.php">News</a></li>
-				<li><a href="contact.php">Contact</a></li>
-			</ul>
-			<div class="menu_review"><a href="#">Book Now</a></div>
-		</div>
-	</div>
